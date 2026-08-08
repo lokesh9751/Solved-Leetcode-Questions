@@ -8,6 +8,7 @@ Repo created on 08/08/2026
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ Repo created on 08/08/2026
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
