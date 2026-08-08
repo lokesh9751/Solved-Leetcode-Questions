@@ -14,6 +14,7 @@ Repo created on 08/08/2026
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Repo created on 08/08/2026
 | ------- |
 | [0035-search-insert-position](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
