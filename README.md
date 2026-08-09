@@ -28,6 +28,7 @@ Repo created on 08/08/2026
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -39,9 +40,14 @@ Repo created on 08/08/2026
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
