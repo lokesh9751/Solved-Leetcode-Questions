@@ -15,6 +15,7 @@ Repo created on 08/08/2026
 | [0283-move-zeroes](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0792-binary-search) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Repo created on 08/08/2026
 | [0066-plus-one](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/lokesh9751/Solved-Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
